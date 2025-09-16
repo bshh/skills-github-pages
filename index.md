@@ -1,4 +1,6 @@
 ---
+theme: minima
 title: Welcome to my blog
+date: 2025-09-16
 ---
 
